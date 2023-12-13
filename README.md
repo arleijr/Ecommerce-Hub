@@ -1,2 +1,2 @@
 # Ecommerce-Hub
-![my-img](img/Login.png)
+![my-img](img/Login.PNG)
