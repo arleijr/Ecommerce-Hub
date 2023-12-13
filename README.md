@@ -1,2 +1,2 @@
 # Ecommerce-Hub
-<img src=https://github.com/arleijr/Ecommerce-Hub/tree/main/img />
+![my-img](Ecommerce-Hub/blob/main/img/Find%20SKU.PNG)
